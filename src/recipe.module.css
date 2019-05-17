@@ -1,0 +1,24 @@
+.recipe_details {
+    width: 381px;
+    background: white;
+    border-radius: 38px;
+    display: flex;
+    flex-direction: column;
+    margin: 2px;
+    box-shadow: 10px 10;
+    -webkit-box-shadow: 12px -9px 17px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 12px -9px 17px 2px rgba(0,0,0,0.75);
+    box-shadow: 12px -9px 17px 2px rgba(0,0,0,0.75);
+}
+
+.recipe_details img {
+    padding: 30px;
+}
+.recipe_details h1,
+.recipe_details p
+{
+    text-align:center;
+}
+
+
+  
