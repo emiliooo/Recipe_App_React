@@ -25,4 +25,11 @@
   justify-content: space-around;
   flex-wrap: wrap;
 }
-
+.spinner{
+  width: 300px;
+  display: block;
+  margin: 0px auto;
+  position: absolute;
+  justify-content: center;
+  left: 36%;
+}
